@@ -44,7 +44,7 @@ This is an example exercise.
 
 ---
 
-## First video
+## Screencast
 
 ```yaml
 type: VideoExercise
